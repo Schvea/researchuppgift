@@ -10,9 +10,8 @@
 **<p style="text-align: center;">Något mer om Github och Markdown som du lärt dig</P>**
 <p style="text-align: center;">Jag har aldrig använt markdown förut så allt var nytt för mig. Det var intressant att få reda på mds syntax under lektionstid. Sedan har jag kollat på cheet sheets på basic md syntax.</P>
 
-<img src="./img/hästboll.png">
+<center><img src="./img/hästboll.png" width="250"></center>
 
-https://www.markdownguide.org/cheat-sheet/
+
 https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown
-
-
+https://www.markdownguide.org/cheat-sheet/
