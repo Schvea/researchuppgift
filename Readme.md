@@ -8,9 +8,11 @@
 **<p style="text-align: center;">Något mer om Github och Markdown som du lärt dig</P>**
 <p style="text-align: center;">Jag har aldrig använt markdown förut så allt var nytt för mig. Det var intressant att få reda på mds syntax under lektionstid. Sedan har jag kollat på cheet sheets på basic md syntax.</P>
 
-<center><img src="./img/hästboll.png" width="250"></center>
+<center><img src="./img/hästboll.png" width="250"></center> <!---Vet att det är olagligt med center orkar inte förstå
+hur man gör med bilder det känns svårt :(-->
 
 <p style="text-align: center;">Testar med en till branch</P>
+
 
 
 https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown
