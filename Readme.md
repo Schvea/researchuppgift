@@ -1,6 +1,10 @@
+<link rel="stylesheet" href="style.css">
+
 **<p style="text-align: center;">Första uppgiften </P>**
 **<p style="text-align: center;">Några terminalkommandon du lärt dig under föreläsningarna</p>**
 <p style="text-align: center;">Här är några terminalkommandon jag lärt mig </P>
+
+<div class="myDiv">
 
 | kommandon    | användning|
 |--------------|-----------|
@@ -8,6 +12,8 @@
 | echo    | skapa fil  |
 | mkdir        |skapar mapp|
 | ls     | List source(se allt i en mapp)  |
+
+</div>
 
 **<p style="text-align: center;">Några Git kommandon du lärt dig under föreläsningarna </P>**
 <p style="text-align: center;"> Här är några git kommandon jag lärt mig under föreläsning/egen googling </P>
