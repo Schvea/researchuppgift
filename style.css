@@ -1,0 +1,36 @@
+body {
+    max-width: 1000px;
+    width: 100%;
+    background-color: rgb(34, 34, 34);
+    display: flex;
+}
+
+p {
+    color: rgb(241, 233, 233);
+}
+
+.första {
+    color: rgb(255, 165, 199);
+}
+
+.tabell-1 {
+
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tabell-2 {
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+th {
+    color: rgb(255, 165, 199);
+
+}
