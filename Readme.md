@@ -2,6 +2,13 @@
 **<p style="text-align: center;">Några terminalkommandon du lärt dig under föreläsningarna</p>**
 <p style="text-align: center;">Jag har lärt mig om pwd, ls, cd och meningen med cd... Jag har också lärt mig att använda echo för att återfå skriven text i terminalen/i txt dokument. </P>
 
+| kommandon    | användning|
+|--------------|-----------|
+| pwd          |print working directory|
+| ls     | List source(se allt i en mapp)  |
+
+
+
 **<p style="text-align: center;">Några Git kommandon du lärt dig under föreläsningarna </P>**
 <p style="text-align: center;">Git init är det första git kommandot jag minns att jag lärde mig under genomgången. Jag har svårt att komma ihåg exakt vad jag lärt mig genom egen läsning o genomgång men git commit har jag kollat på och vi fick en genomgång av hur man kan tillföra meddelanden i commits. Git log tyckte jag var ett användbart kommando. </P>
 
