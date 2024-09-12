@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="style.css">
 
-**<p style="text-align: center;">Första uppgiften </P>**
+**<p class="första" style="text-align: center;">Första uppgiften </P>**
 **<p style="text-align: center;">Några terminalkommandon du lärt dig under föreläsningarna</p>**
 <p style="text-align: center;">Här är några terminalkommandon jag lärt mig </P>
 
-<div class="myDiv">
+<div class="tabell-1">
 
 | kommandon    | användning|
 |--------------|-----------|
@@ -18,6 +18,8 @@
 **<p style="text-align: center;">Några Git kommandon du lärt dig under föreläsningarna </P>**
 <p style="text-align: center;"> Här är några git kommandon jag lärt mig under föreläsning/egen googling </P>
 
+<div class="tabell-2">
+
 | kommandon    | användning|
 |--------------|-----------|
 | git init          |skapa repo|
@@ -26,6 +28,8 @@
 | git branch     | se branches  |
 | git push         |för att pusha ändringar|
 | git log     | visar commits  |
+
+</div>
 
 **<p style="text-align: center;">Något mer om Github och Markdown som du lärt dig</P>**
 <p style="text-align: center;">Jag har aldrig använt markdown förut så allt var nytt för mig. Det var intressant att få reda på mds syntax under lektionstid. Sedan har jag kollat på cheet sheets på basic md syntax.</P>
